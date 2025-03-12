@@ -1,3 +1,4 @@
+这个demo我是在qtcreator上做的
 这个keypressevent按键事件
 我们这里做了一个demo
 运行这个界面的时候，实现按住CTRL+M实现界面变成全屏，按下ESC缩小的功能
