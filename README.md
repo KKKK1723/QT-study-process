@@ -1,2 +1,2 @@
 # QT-study-process
-小白学习qt过程 
+QT基础部分
